@@ -1,0 +1,16 @@
+.slider_img{
+    height: 400px;
+}
+#home{
+    height :420px;
+    /* margin-top : 60px */
+}
+@media screen and (max-width: 600px){
+    .slider_img{
+        height: 260px;
+    }   
+    #home{
+        height: 265px;
+    }
+
+}

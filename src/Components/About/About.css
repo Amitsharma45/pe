@@ -1,0 +1,16 @@
+.about_logo{
+    background-color: #2874f0;
+    border-radius: 50%;
+    height: 230px;
+    width: 230px;
+    color: white;
+    font-size: 22px;
+}
+
+@media screen and (max-width: 550px) {
+    .about_logo{
+        margin: 15px 0;
+        height: 200px;
+        width: 200px;
+    }
+}
